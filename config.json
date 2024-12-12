@@ -6,12 +6,12 @@
   "description": "Script (PowerShell, BAT, Bash) runner for endpoints",
   "hasAdminPanel": false,
   "homepage": "https://github.com/ryanblenis/MeshCentral-ScriptTask",
-  "changelogUrl": "https://raw.githubusercontent.com/ryanblenis/MeshCentral-ScriptTask/master/changelog.md",
-  "configUrl": "https://raw.githubusercontent.com/ryanblenis/MeshCentral-ScriptTask/master/config.json",
-  "downloadUrl": "https://github.com/ryanblenis/MeshCentral-ScriptTask/archive/master.zip",
+  "changelogUrl": "https://raw.githubusercontent.com/pierrecorsini/MeshCentral-ScriptTask-0.0.18/master/changelog.md",
+  "configUrl": "https://raw.githubusercontent.com/pierrecorsini/MeshCentral-ScriptTask-0.0.18/master/config.json",
+  "downloadUrl": "https://github.com/pierrecorsini/MeshCentral-ScriptTask-0.0.18/archive/master.zip",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryanblenis/MeshCentral-ScriptTask.git"
+    "url": "https://github.com/pierrecorsini/MeshCentral-ScriptTask-0.0.18.git"
   },
   "versionHistoryUrl": "https://api.github.com/repos/ryanblenis/MeshCentral-ScriptTask/tags",
   "meshCentralCompat": ">=0.9.98"
